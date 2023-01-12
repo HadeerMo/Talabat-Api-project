@@ -1,0 +1,12 @@
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\bin\Release\net6.0\Talabat.core.deps.json
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\bin\Release\net6.0\Talabat.core.dll
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\bin\Release\net6.0\Talabat.core.pdb
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\obj\Release\net6.0\Talabat.core.csproj.AssemblyReference.cache
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\obj\Release\net6.0\Talabat.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\obj\Release\net6.0\Talabat.core.AssemblyInfoInputs.cache
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\obj\Release\net6.0\Talabat.core.AssemblyInfo.cs
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\obj\Release\net6.0\Talabat.core.csproj.CoreCompileInputs.cache
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\obj\Release\net6.0\Talabat.core.dll
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\obj\Release\net6.0\refint\Talabat.core.dll
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\obj\Release\net6.0\Talabat.core.pdb
+D:\fullStack\Back-end\assignment\assignment31\Talabat.API.Sol\Talabat.core\obj\Release\net6.0\ref\Talabat.core.dll
